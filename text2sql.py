@@ -37,7 +37,7 @@ class Text2SQL():
             Body TEXT,
             URL TEXT,
             Is_Public INTEGER,
-            Date TEXT,
+            Date TEXT, -- Formatted as example: 6/1/2021  12:00:00 AM
             Document_Status_Type_ID INTEGER,
             Subject_Name TEXT,
             Legal_Genesis TEXT,
